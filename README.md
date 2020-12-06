@@ -11,8 +11,8 @@
 
 ## About
 
-This is the companion repository for the lightning talk given
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+This is the companion repository for the lightning talk given December 9th, 2020.
+
 
 ## Installation
 
