@@ -27,7 +27,7 @@ The renv package was used to create and maintain the environment for
 this project. First install this package if you haven’t already
 
 ``` r
-remotes::install_github("rstudio/renv")
+install.packages("renv")
 ```
 
 When you open the project associated with this repo (after installing
