@@ -10,7 +10,7 @@ params:
 
 branch <- params$branch
 statement <- glue::glue_sql("SELECT * from financials
-                             WHERE branch == {branch}", 
+                             WHERE branch = {branch}", 
                             .con = db)
                              
 mydata <- DBI::dbGetQuery(conn = db,
