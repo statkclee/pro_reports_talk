@@ -11,7 +11,7 @@
 
 ## About
 
-This is the companion repository for the lightning talk given December 9th, 2020. [LINK HERE](https://zoom.us/rec/share/7pRIYhe89H5cNzkwyEgNx2EBU9K0mzYCW3oH_RmRiqWTNJiTmD3n6TrYBgqc2Hwo.j4IdWV8SBW3s1wFc ), password = 9np$u.=p
+This is the companion repository for the lightning talk given December 9th, 2020. [LINK HERE](https://zoom.us/rec/share/7pRIYhe89H5cNzkwyEgNx2EBU9K0mzYCW3oH_RmRiqWTNJiTmD3n6TrYBgqc2Hwo.j4IdWV8SBW3s1wFc ), password: { 9np$u.=p }
 
 
 ## Installation
