@@ -11,8 +11,8 @@ create_image <- function (branch, month, year) {
   base_image <- magick::image_read(base_img_loc)
   
   # Annotate base image
-  text <- glue::glue("For {branch}, ND Branch
-                      {month}, {year}")
+  # text <- glue::glue("For {branch}, ND Branch {month}, {year}")
+  text <- glue::glue("Tidyverse Korea {branch}, ND Branch {month}, {year}")
   
   final <- magick::image_annotate(base_image, text, size = 60, color = "white",
                                   degrees = 0,  location = "+150+330")
